@@ -1,4 +1,4 @@
-# <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDA3NjdtdXA4bmN4eTNuY3cxeTA5dHJlZ3BzN3g1eDM5MHdieTE4biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1GEATImIxEXVR79Dhk/giphy.webp" width="200"/> Welcome !
+# <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDA3NjdtdXA4bmN4eTNuY3cxeTA5dHJlZ3BzN3g1eDM5MHdieTE4biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1GEATImIxEXVR79Dhk/giphy.webp" width="200"/>  Welcome (: 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tamiresescobar)
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tamires.daily)
@@ -12,18 +12,20 @@ Entusiasta na área da tecnologia
 Comecei minha transição de carreira para área da tecnologia no 2° semestre de 2022, minha jornada começou na Área Bancária onde tive o prazer de vivenciar experiências como: Assistente de Atendimento/Comercial, Assistente Administrativo de Crédito e o Suporte (Help Desk).
 Migrei para área devido ao fato que tecnologia e negócios andam lado a lado, me aprofundei em cursos voltados para área: Formação Back End na Alura (Oracle) e CRM (Customer Relationship Management)
 
-Habilidades Principais:
-• Programação em Java
-• Framework Spring Boot
-• Desenvolvimento de APIs RESTful
-• Controle de Versão com Git | Github
-• Familiaridade com CSS, HTML, JavaScript e Angular
+## Habilidades Principais:
+
+Programação em Java,  Framework Spring Boot, Desenvolvimento de APIs RESTful, Controle de Versão com Git e Github, Familiaridade com CSS, HTML, JavaScript.
 
 
 🔭 Atualmente estou explorando o mundo Front-end.
-💬 Faça um brainstorming comigo sobre tecnologia, algoritmos, carreira e viagens.
+
+💬 Faça um brainstorming comigo sobre tecnologia, 
+algoritmos, carreira e viagens.
+
 📫 Entre em contato comigo pelo e-mail.
+
 😄 Pronomes: Programador/Ela/Ela/Dela.
+
 ⚡ Curiosidade: confira minha comunidade no instagram !
 
 ## Tecnologias 💻
