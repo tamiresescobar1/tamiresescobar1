@@ -1,7 +1,6 @@
 # <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDA3NjdtdXA4bmN4eTNuY3cxeTA5dHJlZ3BzN3g1eDM5MHdieTE4biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1GEATImIxEXVR79Dhk/giphy.webp" width="200"/>  Welcome (: 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tamiresescobar)
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tamires.daily)
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:tamiresescobar@hotmail.com)
 
 
